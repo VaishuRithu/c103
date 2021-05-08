@@ -1,0 +1,19 @@
+body
+{
+    background-color: rgb(248, 141, 159);
+}
+
+b
+{
+    font-family:cursive;
+}
+
+#capturebutton, #identifybutton, p, #imgrecog, label
+{
+    font-family:cursive;
+}
+
+b:hover
+{
+    background: yellow;
+}
